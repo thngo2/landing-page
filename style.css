@@ -78,3 +78,37 @@ a {
     align-items: center;
     margin-left: 32px;
 }
+
+/* ---> body-two <--- */
+
+.body-two {
+    padding: 36px 248px;
+}
+
+.b2-header {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    margin-bottom: 32px;
+}
+
+.empty-box {
+    width: 200px;
+    height: 200px;
+    border: 3px solid #3882f6;
+    border-radius: 8px;
+}
+
+.b2-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #1f2937;
+}
+
+.b2-text {
+    text-align: center;
+}
+
+
