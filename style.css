@@ -115,3 +115,30 @@ a {
 }
 
 /* ---> body-three <--- */
+
+.body-three {
+    height: 400px;
+    background: #e5e7eb;
+    padding: 16px 248px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.b3-quote {
+    font-weight: 300;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.b3-author {
+    font-weight: bold;
+    color: #1f2937;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
