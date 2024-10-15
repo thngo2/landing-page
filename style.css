@@ -191,6 +191,13 @@ a {
     font-weight: bold;
 }
 
+/* ---> footer <--- */
 
-
-
+.footer {
+    background: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+    height: 100px;
+}
