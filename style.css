@@ -41,7 +41,13 @@ a {
 
 .body-one {
     height: 400px;
-    padding-top: 100px;
+    padding-top: 50px;
+}
+
+.b1-left {
+    padding: 16px 0;
+    margin: 16px 0;
+    width: 50%;
 }
 
 .b1-title {
@@ -61,6 +67,12 @@ a {
     border: 2px solid #3882f6;
     border-radius: 8px;
     width: 140px;
+}
+
+.b1-right {
+    padding: 16px 0;
+    margin: 16px 0;
+    width: 50%;
 }
 
 .b1-right-text {
