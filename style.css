@@ -7,7 +7,7 @@ body {
 
 .header, .body-one {
     background: #1f2937;
-    padding: 16px 128px;
+    padding: 16px 248px;
     color: #f9faf8;
     display: flex;
 }
@@ -44,10 +44,9 @@ a {
     padding-top: 50px;
 }
 
-.b1-left {
+.b1-left, .b1-right {
     padding: 16px 0;
     margin: 16px 0;
-    width: 50%;
 }
 
 .b1-title {
@@ -69,12 +68,6 @@ a {
     width: 140px;
 }
 
-.b1-right {
-    padding: 16px 0;
-    margin: 16px 0;
-    width: 50%;
-}
-
 .b1-right-text {
     font-size: 18px;
     background: gray;
@@ -83,5 +76,5 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 24px;
+    margin-left: 32px;
 }
