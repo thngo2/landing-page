@@ -95,7 +95,7 @@ a {
 
 .b2-info {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
     color: #1f2937;
 }
